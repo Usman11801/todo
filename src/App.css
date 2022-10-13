@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.App{
+  background-color: blue;
+  height: 100vh;
+}
+.mt{
+  margin-top: 0px;
+
+}
+h1{
+  color: white;
+}
